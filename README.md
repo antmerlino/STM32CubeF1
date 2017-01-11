@@ -11,9 +11,11 @@ Modifications (for current and upcoming versions):
 
 * Only files used by Contiki are included here. Documentation and files related to other toolchains except GCC have been removed.
 
-BSPs and some Middleware files have been removed.  These files may be re-included if Contiki requires these files for any new platform.
+BSPs and Middleware files have been removed.  These files may be re-included if Contiki requires these files for any new platform.
 
 All sources are and will remain otherwise intact, except in case where modifications are required by Contiki.
+
+All documentation and licenses have been removed.  All source code in this repository follows the respective license agreemnents found in the official STM32CubeF1 library provided by ST.
 
 [STM32CubeF1](http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-embedded-software/stm32cubef1.html) is distributed by ST. If you are looking for the latest version of STM32CubeF1, do not clone this repository.
 
